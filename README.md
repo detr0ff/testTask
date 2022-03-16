@@ -11,7 +11,7 @@ java.lang.reflect.UndeclaredThrowableException: Failed to invoke event listener 
    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 не помогло.
 
-Считаю, что в документацию необходимо отдельно внести указания по настройке переменной среды JAVA_HOME; M2_HOME (MAVEN) 
+Возможно, что в документацию следует отдельно внести указания по настройке переменной среды JAVA_HOME; M2_HOME (MAVEN) 
 и о том какие версии лучше иcпользовать.
    
 Несчитая все выше перечисленное, в целом все понятно.
